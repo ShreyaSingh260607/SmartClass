@@ -42,6 +42,12 @@ The system is designed to reduce unnecessary energy usage while maintaining a co
 
 ![SmartClass Circuit](images/circuit.png)
 
+## 🔗 Tinkercad Simulation
+
+You can view and simulate the SmartClass circuit on Tinkercad:
+
+👉 [Open SmartClass on Tinkercad](https://www.tinkercad.com/things/fstWHE97rjr-smart-class?sharecode=YpTz1qmp71UQ0mTKZUIFRGn6uz38yuHYYie4iY3cFcw)
+
 ## ⚙️ How It Works
 
 ### 1. Occupancy Detection
