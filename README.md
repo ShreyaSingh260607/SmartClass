@@ -38,6 +38,10 @@ The system is designed to reduce unnecessary energy usage while maintaining a co
 | TMP36 | A1 |
 | Fan/Motor Control | D7 |
 
+## 🔌 Circuit Diagram
+
+![SmartClass Circuit](images/circuit.png)
+
 ## ⚙️ How It Works
 
 ### 1. Occupancy Detection
